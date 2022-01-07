@@ -1,5 +1,5 @@
 ## AI Pose Estimation:
-This is a simple pose estimation program based on Artificial intelligence. It's able to detect the position and orientation of an object.
+This is a simple pose estimation program based on Artificial intelligence which made with Python. It's able to detect the position and orientation of an object.
 
 
 ## Outcome:
@@ -25,7 +25,7 @@ Math is a built-in module that we can use for mathematical tasks.
 ## Usage:
 - First of all you need to install all required packages. 
 - Then run the PoseEstimation.py file.
-- You're done! Enjoy the pose estimation.
+- You're done! Enjoy the pose estimation program.
 
 
 ## Tutorial:
